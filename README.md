@@ -1,1 +1,1 @@
-This is a RPC distributed server framework build by CPP.
+This is a RPC distributed server framework built by CPP.
